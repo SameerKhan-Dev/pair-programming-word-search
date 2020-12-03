@@ -1,4 +1,4 @@
-# Pair Programming: Word Search
+# Pair Programming: Word Search  (COMPLETED BY SAMEER KHAN AND EGENAZ TUREMIS, AS PART OF PAIR - PROGRAMMING AT LIGHTHOUSE LABS)
 
 This challenge comes with some initial (buggy!) code. We suggest approaching this problem with a TDD mindset, meaning "write tests, make the tests pass, repeat!".
 
